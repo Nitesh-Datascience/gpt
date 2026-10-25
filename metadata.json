@@ -1,0 +1,8 @@
+{
+  "name": "Remix GPT-4o mini Studio \u0026 Benchmark Arena",
+  "description": "Developer playground, benchmark intelligence suite, cost calculator, and side-by-side arena for OpenAI GPT-4o mini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
